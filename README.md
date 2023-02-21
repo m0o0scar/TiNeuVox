@@ -1,7 +1,9 @@
 # TiNeuVox: Time-Aware Neural Voxels
 ## ACM SIGGRAPH Asia 2022
 
-### [Project Page](https://jaminfong.cn/tineuvox) | [ACM Paper](https://dl.acm.org/doi/10.1145/3550469.3555383) | [Arxiv Paper](https://arxiv.org/abs/2205.15285) | [Video](https://youtu.be/sROLfK_VkCk)
+### [Project Page](https://jaminfong.cn/tineuvox) | [ACM Paper](https://dl.acm.org/doi/10.1145/3550469.3555383) | [Arxiv Paper](https://arxiv.org/abs/2205.15285) | [Video](https://youtu.be/sROLfK_VkCk) |
+
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AOuhlGHPvXS9718nbLc7qOBxDcTMFJCj)
 
 [Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox)   
 [Jiemin Fang](https://jaminfong.cn/)<sup>1,2*</sup>, [Taoran Yi](https://github.com/taoranyi)<sup>2*</sup>, [Xinggang Wang](https://xinggangw.info/)<sup>✉2</sup>, [Lingxi Xie](http://lingxixie.com/)<sup>3</sup>, </br>[Xiaopeng Zhang](https://sites.google.com/site/zxphistory/)<sup>3</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>2</sup>, [Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html)<sup>4</sup>, [Qi Tian](https://scholar.google.com/citations?hl=en&user=61b6eYkAAAAJ)<sup>3</sup>  
